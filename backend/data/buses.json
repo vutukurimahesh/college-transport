@@ -1,0 +1,5 @@
+[
+  { "id": 1, "number": "CT-01", "capacity": 40, "driverName": "Ramesh Kumar", "driverPhone": "9876500001", "status": "active" },
+  { "id": 2, "number": "CT-02", "capacity": 45, "driverName": "Suresh Babu", "driverPhone": "9876500002", "status": "active" },
+  { "id": 3, "number": "CT-03", "capacity": 35, "driverName": "Anil Reddy", "driverPhone": "9876500003", "status": "maintenance" }
+]

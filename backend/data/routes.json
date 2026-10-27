@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1, "name": "Route 1 – North Loop", "busId": 1, "fare": 9000,
+    "stops": [
+      { "name": "Lakeview Colony", "time": "07:10" },
+      { "name": "Market Road", "time": "07:25" },
+      { "name": "City Centre", "time": "07:45" },
+      { "name": "Main Campus", "time": "08:15" }
+    ]
+  },
+  {
+    "id": 2, "name": "Route 2 – East Line", "busId": 2, "fare": 11000,
+    "stops": [
+      { "name": "Industrial Estate", "time": "06:55" },
+      { "name": "Railway Station", "time": "07:20" },
+      { "name": "City Centre", "time": "07:40" },
+      { "name": "Main Campus", "time": "08:15" }
+    ]
+  },
+  {
+    "id": 3, "name": "Route 3 – South Express", "busId": 3, "fare": 8000,
+    "stops": [
+      { "name": "Garden Heights", "time": "07:20" },
+      { "name": "Bus Stand", "time": "07:40" },
+      { "name": "Main Campus", "time": "08:10" }
+    ]
+  }
+]
